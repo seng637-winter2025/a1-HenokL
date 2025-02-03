@@ -13,19 +13,19 @@
 **Table of Contents**
 
 
-[1. Introduction](#introduction)
+[1 Introduction](#introduction)
 
-[2. High-level description of the exploratory testing plan](#high-level-description-of-the-exploratory-testing-plan)
+[2 High-Level Testing Plan](<#high-level-testing-plan>)
 
-[3. Comparison of exploratory and manual functional testing](#comparison-of-exploratory-and-manual-functional-testing)
+[3 Comparison of exploratory and manual functional testing](#comparison-of-exploratory-and-manual-functional-testing)
 
-[4. Notes and discussion of the peer reviews of defect reports](#notes-and-discussion-of-the-peer-reviews-of-defect-reports)
+[4 Notes and discussion of the peer reviews of defect reports](#notes-and-discussion-of-the-peer-reviews-of-defect-reports)
 
-[5. How the pair testing was managed and team work/effort was divided](#how-the-pair-testing-was-managed-and-team-workeffort-was-divided)
+[5 How the pair testing was managed and team work/effort was divided](#how-the-pair-testing-was-managed-and-team-workeffort-was-divided)
 
-[6. Difficulties encountered, challenges overcome, and lessons learned](#difficulties-encountered-challenges-overcome-and-lessons-learned)
+[6 Difficulties encountered, challenges overcome, and lessons learned](#difficulties-encountered-challenges-overcome-and-lessons-learned)
 
-[7. Comments/feedback on the lab and lab document itself](#commentsfeedback-on-the-lab-and-lab-document-itself)
+[7 Comments/feedback on the lab and lab document itself](#commentsfeedback-on-the-lab-and-lab-document-itself)
 
 # Introduction
 
@@ -38,7 +38,7 @@ Before starting, we had a basic understanding of:
 
 - Manual Functional Testing: A methodical process using predefined test cases. We assumed it would feel more systematic but less creative.
 
-# High-level description of the exploratory testing plan
+# High-Level Testing Plan
 
 
 We simulated real-world user behavior to uncover unexpected flaws. Key focus areas included:  
